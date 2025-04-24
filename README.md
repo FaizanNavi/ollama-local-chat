@@ -32,3 +32,10 @@ Usage
 
 3. Run the Chatbot:
      python bot.py
+
+4. Interact with the Chatbot:
+     python bot.py
+
+Type your queries in the terminal.
+To exit the chatbot, type exit.
+Example Interaction
